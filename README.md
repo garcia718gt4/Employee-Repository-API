@@ -1,2 +1,2 @@
-# FSJS-Project-5
- Public API Request
+# API Request
+Using an API to Create an Employee Directory
